@@ -8,7 +8,9 @@ Structure:
 Main Page       - Landingpage with overview of the recipes (Links)
 Sub Pages (3x)  - Recipes 
 
-side challange: - working with git commands
+side challenge: - working with git commands
 
 used resources: - VS Code
-                - 
+                - html cheat sheet
+
+open problems:  0
